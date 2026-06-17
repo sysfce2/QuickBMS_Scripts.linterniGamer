@@ -43,6 +43,7 @@ These are the many uses these bms scripts have:
 | LEGO Star Wars: The Video Game (PS2, PC) | game.dat, sfx.dat | ttgames.bms | quickbms.exe |
 | The Chronicles of Narnia: The Lion, the Witch and the Wardrobe | narnia.dat | ttgames.bms | quickbms.exe |
 | LEGO Star Wars 2: The Original Trilogy | game.dat, pspdat.dat | ttgames.bms | quickbms.exe |
+| Super Monkey Ball Adventure | BD Files | ttgames_Crash_Bandicoot.bms | quickbms.exe |
 | F1 Grand Prix (PSP) | f1_psp.dat | ttgames.bms | quickbms.exe |
 | WRC - FIA World Rally Championship (PSP) | wrc_psp.dat | ttgames.bms | quickbms.exe |
 | Bionicle Heroes | bionicle.dat | ttgames.bms | quickbms.exe |
